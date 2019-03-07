@@ -6,3 +6,8 @@ and append content of jail.conf with your existing jail.conf
 
 note: This rules can be heavy on your server's CPU, and if you
 are lacking it, think of some other solution...
+
+note2: theese rules should be constantly updated, and can be significantly improved,
+feel free to work on them and request PR's ...
+
+
