@@ -24,3 +24,8 @@ Status for the jail: apache-script-hackbots
    |- Total banned:	10
    `- Banned IP list:	209.95.51.11 109.70.100.20 134.175.26.138 178.17.170.196 14.63.75.46 78.148.23.203 185.222.202.12 120.27.133.197 185.220.101.12
 ```
+
+TODO:
+- create complain rule to send abuse reports to RIPE administrative contact
+- integrate with various BAD IP lists
+(please do above if you have time...)
